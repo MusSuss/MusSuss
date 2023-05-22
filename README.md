@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://wallpaperaccess.com/full/8088702.gif">
+  <img src="https://giphy.com/clips/storyful-arizona-milky-way-shooting-stars-ozNvZioZuhQZ9YmxvX">
 </div>
